@@ -53,8 +53,8 @@ Each country is represented as a JSON object with the following structure:
 },
 
 
-##Usage
+## Usage
 The data can be used for various purposes, including research, educational projects, and data visualization. You can parse the JSON file using standard JSON parsing methods in your preferred programming language.
 
-##Contributing
+## Contributing
 We welcome contributions to improve the data quality or add more countries. Please submit a pull request with your changes.
